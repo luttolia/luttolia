@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning on html, css, javascript, jquery
+- 📫 How to reach me: lut.tolia@gmail.com
+- ⚡ Fun fact: I'm cool voleyball player
 <!--
 **luttolia/luttolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
